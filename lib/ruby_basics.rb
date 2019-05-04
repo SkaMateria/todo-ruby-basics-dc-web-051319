@@ -32,6 +32,6 @@ end
 
 
 
-def pizza_party
-
+def pizza_party(default = "cheese")
+  return default
 end

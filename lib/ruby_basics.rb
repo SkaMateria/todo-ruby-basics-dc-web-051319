@@ -26,8 +26,8 @@ end
 
 
 
-def last_evaluated_value
-
+def last_evaluated_value(phrase)
+  return "expert"
 end
 
 

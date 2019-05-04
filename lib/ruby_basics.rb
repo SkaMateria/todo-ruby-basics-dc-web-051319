@@ -26,8 +26,7 @@ end
 
 
 
-def last_evaluated_value(phrase)
-  "#{phrase} = "expert"
+def last_evaluated_value(phrase = "expert")
   return phrase
 end
 
